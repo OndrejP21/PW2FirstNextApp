@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Navbar from "@/components/navbar/Navbar";
 
 export const metadata: Metadata = {
   title: "Moje Next appka",
@@ -13,8 +14,8 @@ export interface RootLayoutProps {
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="cs">
-      <body className="p-5">
-        <h1 className="text-2xl font-bold">Můj skvělý web</h1>
+      <body>
+        <Navbar />
         {children}
       </body>
     </html>
