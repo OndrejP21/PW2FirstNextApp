@@ -8,7 +8,7 @@ export default function SectionItem({
   className = "",
 }: SectionItemProps) {
   return (
-    <section className={`p-5 flex bg-gray-200 ${className}`}>
+    <section className={`p-5 flex gap-x-5 bg-gray-200 ${className}`}>
       <div>
         <h2 className="font-bold mb-4">{header}</h2>
 
@@ -19,8 +19,14 @@ export default function SectionItem({
         ))}
       </div>
 
-      <div>
-        <Image src={srcImage} alt="img" />
+      <div className="flex justify-center items-center">
+        <Image
+          src={srcImage}
+          alt="img"
+          width={300}
+          height={200}
+          className="w-[300px] h-auto"
+        />
       </div>
     </section>
   );
