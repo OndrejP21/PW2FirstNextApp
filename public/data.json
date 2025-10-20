@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "Echoes of Solaris",
+    "year": 2032,
+    "genre": ["sci-fi", "psychological", "drama"],
+    "rating": 8.7,
+    "languages": ["English", "German"],
+    "boxOffice": { "budget": 120000000, "revenue": 540000000 },
+    "cast": [
+      { "name": "Ariel Storm", "role": "Dr. Selene Ward", "awardWinner": true },
+      { "name": "Marcus Hale", "role": "Commander Reaves", "awardWinner": false }
+    ],
+    "awards": ["Nebula Visionary Award", "Aurora Nominee"],
+    "isAnimated": false
+  },
+  {
+    "id": 2,
+    "title": "Moonlight Market",
+    "year": 2029,
+    "genre": ["fantasy", "romance"],
+    "rating": 7.9,
+    "languages": ["English", "French", "Spanish"],
+    "boxOffice": { "budget": 45000000, "revenue": 220000000 },
+    "cast": [
+      { "name": "Clara Verne", "role": "Elara Voss", "awardWinner": false },
+      { "name": "Theo Lark", "role": "Ren the Glassmaker", "awardWinner": true }
+    ],
+    "awards": [],
+    "isAnimated": false
+  },
+  {
+    "id": 3,
+    "title": "Titanfall Reborn",
+    "year": 2034,
+    "genre": ["action", "sci-fi"],
+    "rating": 8.4,
+    "languages": ["English", "Japanese"],
+    "boxOffice": { "budget": 200000000, "revenue": 1100000000 },
+    "cast": [
+      { "name": "Jaxon Reed", "role": "Pilot Orion", "awardWinner": true },
+      { "name": "Natsumi Han", "role": "AI Nova", "awardWinner": false }
+    ],
+    "awards": ["Global Sci-Fi Blockbuster Medal"],
+    "isAnimated": false
+  },
+  {
+    "id": 4,
+    "title": "Winds of Aether",
+    "year": 2027,
+    "genre": ["fantasy", "adventure"],
+    "rating": 8.1,
+    "languages": ["English"],
+    "boxOffice": { "budget": 88000000, "revenue": 420000000 },
+    "cast": [
+      { "name": "Liora Vale", "role": "Aetherian Ranger", "awardWinner": true },
+      { "name": "Corvin Ash", "role": "Wind Caller", "awardWinner": false }
+    ],
+    "awards": ["Mythic Worldbuilding Award"],
+    "isAnimated": false
+  },
+  {
+    "id": 5,
+    "title": "Midnight Among Ruins",
+    "year": 2031,
+    "genre": ["mystery", "thriller"],
+    "rating": 8.2,
+    "languages": ["English", "Italian"],
+    "boxOffice": { "budget": 56000000, "revenue": 280000000 },
+    "cast": [
+      { "name": "Evangeline Snow", "role": "Historian Leda", "awardWinner": true },
+      { "name": "Kai Morgan", "role": "Agent Uriel", "awardWinner": false }
+    ],
+    "awards": ["Chronos Script Excellence"],
+    "isAnimated": false
+  },
+  {
+    "id": 6,
+    "title": "Voices from Neon Depths",
+    "year": 2030,
+    "genre": ["cyberpunk", "sci-fi", "noir"],
+    "rating": 9.0,
+    "languages": ["English", "Mandarin"],
+    "boxOffice": { "budget": 130000000, "revenue": 640000000 },
+    "cast": [
+      { "name": "Seraph Noir", "role": "Netrunner Eve", "awardWinner": true },
+      { "name": "Dante Cordell", "role": "Detective Kaze", "awardWinner": true }
+    ],
+    "awards": ["NeoWave Aesthetic Award", "Cyber Narrative Masterpiece"],
+    "isAnimated": false
+  },
+  {
+    "id": 7,
+    "title": "Crescent City Circus",
+    "year": 2028,
+    "genre": ["drama", "fantasy"],
+    "rating": 7.6,
+    "languages": ["English", "Portuguese"],
+    "boxOffice": { "budget": 40000000, "revenue": 190000000 },
+    "cast": [
+      { "name": "Selena Ray", "role": "The Moonbound Acrobat", "awardWinner": false },
+      { "name": "Felix Gael", "role": "Ringmaster Eiden", "awardWinner": false }
+    ],
+    "awards": [],
+    "isAnimated": true
+  },
+  {
+    "id": 8,
+    "title": "Ash & Stardust",
+    "year": 2035,
+    "genre": ["space opera", "drama"],
+    "rating": 9.3,
+    "languages": ["English", "Russian"],
+    "boxOffice": { "budget": 240000000, "revenue": 1350000000 },
+    "cast": [
+      { "name": "Ivy Ren", "role": "Captain Astra Thorne", "awardWinner": true },
+      { "name": "Rowan Dusk", "role": "Navigator Corvus", "awardWinner": true }
+    ],
+    "awards": ["Galactic Epic Award", "Infinity Performance Laureate"],
+    "isAnimated": false
+  },
+  {
+    "id": 9,
+    "title": "Frostwhisper Sonata",
+    "year": 2026,
+    "genre": ["romance", "drama", "musical"],
+    "rating": 7.8,
+    "languages": ["English"],
+    "boxOffice": { "budget": 35000000, "revenue": 160000000 },
+    "cast": [
+      { "name": "Elora Venn", "role": "Composer Lyra", "awardWinner": true },
+      { "name": "Dorian Wyke", "role": "Pianist Raven", "awardWinner": false }
+    ],
+    "awards": ["Harmonia Emotional Score Award"],
+    "isAnimated": false
+  },
+  {
+    "id": 10,
+    "title": "Ironveil Redemption",
+    "year": 2033,
+    "genre": ["action", "post-apocalyptic"],
+    "rating": 8.5,
+    "languages": ["English"],
+    "boxOffice": { "budget": 150000000, "revenue": 710000000 },
+    "cast": [
+      { "name": "Draven Cole", "role": "Ironveil Warlord", "awardWinner": true },
+      { "name": "Lyra Steele", "role": "Nomad Oracle", "awardWinner": false }
+    ],
+    "awards": [],
+    "isAnimated": false
+  },
+  {
+    "id": 11,
+    "title": "Garden of Forgotten Suns",
+    "year": 2028,
+    "genre": ["fantasy", "mystery"],
+    "rating": 7.4,
+    "languages": ["English", "Hindi"],
+    "boxOffice": { "budget": 32000000, "revenue": 150000000 },
+    "cast": [
+      { "name": "Aria Maelis", "role": "Keeper of the Keys", "awardWinner": false },
+      { "name": "Ren Aster", "role": "Wandering Scribe", "awardWinner": false }
+    ],
+    "awards": [],
+    "isAnimated": false
+  },
+  {
+    "id": 12,
+    "title": "Skybound Architects",
+    "year": 2031,
+    "genre": ["sci-fi", "philosophical"],
+    "rating": 9.1,
+    "languages": ["English"],
+    "boxOffice": { "budget": 90000000, "revenue": 590000000 },
+    "cast": [
+      { "name": "Nova Ishtar", "role": "Engineer Lys", "awardWinner": true },
+      { "name": "Ezra Vale", "role": "Architect Juno", "awardWinner": true }
+    ],
+    "awards": ["Aether Thought Award"],
+    "isAnimated": false
+  },
+  {
+    "id": 13,
+    "title": "Abyss of Hollow Stars",
+    "year": 2032,
+    "genre": ["horror", "sci-fi"],
+    "rating": 8.3,
+    "languages": ["English"],
+    "boxOffice": { "budget": 70000000, "revenue": 340000000 },
+    "cast": [
+      { "name": "Nia Frost", "role": "Astrobiologist Selis", "awardWinner": true },
+      { "name": "Axel Rune", "role": "Signal Analyst Jor", "awardWinner": false }
+    ],
+    "awards": ["Eldritch Atmosphere Award"],
+    "isAnimated": false
+  },
+  {
+    "id": 14,
+    "title": "Chasing the Hourglass Tide",
+    "year": 2027,
+    "genre": ["romance", "time-travel", "drama"],
+    "rating": 8.0,
+    "languages": ["English", "Spanish"],
+    "boxOffice": { "budget": 50000000, "revenue": 260000000 },
+    "cast": [
+      { "name": "Lia Sorrel", "role": "Archaeologist Ysara", "awardWinner": false },
+      { "name": "Cael Arden", "role": "Time Drifter", "awardWinner": false }
+    ],
+    "awards": ["Temporal Narrative Nominee"],
+    "isAnimated": false
+  }
+]
